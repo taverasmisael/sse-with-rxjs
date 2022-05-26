@@ -12,7 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eventsource": "^1.0.7",
+    "eventsource": "^2.0.2",
     "rx-lite": "^4.0.8",
     "xstream": "^11.10.0"
   },
